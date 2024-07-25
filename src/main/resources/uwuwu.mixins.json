@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.lilyyy411.uwuwumod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "uwuwumod.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "FontMixin",
+    "LiteralContentsMixin"
+  ],
+  "minVersion": "0.8"
+}
